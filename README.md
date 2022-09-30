@@ -1,8 +1,7 @@
 Howdy visior, welcome to my github profile. I like to learn and work with new technologies so I can build scalable and user friendly applications.
 If you would like to collaborate, we can get in touch via
 
-<a href="[www.linkedin.com/in/vaibhav-malik-b82a8a2b](https://www.linkedin.com/in/vaibhav-malik-b82a8a2b/?msgControlName=reply_to_sender&msgConversationId=2-MTVjZGU3NmQtNmJhNS00MjRmLWE2OWItNjMyOTQ0MTJiYzBhXzAxMg%3D%3D&msgOverlay=true)" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/900px-LinkedIn_logo_initials.png?20140125013055" height="20"/></a>
-
+<a href="www.linkedin.com/in/vaibhav-malik-b82a8a2b" target="blank"><img align="center" src="https://camo.githubusercontent.com/7e1a1a039c75a7c4d2a91d7f97bf0a1c2adcf7cb49b7dbbfc02963a4f9fdaca4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" height="20" /></a>
 <a href="vaibhav-malik@live.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Microsoft_Outlook_2013-2019_logo.svg/640px-Microsoft_Outlook_2013-2019_logo.svg.png" height="20" /></a>
 <br/>
 <h3>Javascript frameworks Knoweldge<h3/>
