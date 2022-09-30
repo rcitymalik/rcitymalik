@@ -1,9 +1,9 @@
 Howdy visior, welcome to my github profile. I like to learn and work with new technologies so I can build scalable and user friendly applications.
 If you would like to collaborate, we can get in touch via
 
-<a href="vaibhav-malik@live.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Microsoft_Outlook_2013-2019_logo.svg/640px-Microsoft_Outlook_2013-2019_logo.svg.png" height="20" /></a>
+<a href="vaibhav-malik@live.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Microsoft_Outlook_2013-2019_logo.svg/640px-Microsoft_Outlook_2013-2019_logo.svg.png" height="20" /></a>
 
-<a href="www.linkedin.com/in/vaibhav-malik-b82a8a2b"> <img src="https://pnggrid.com/wp-content/uploads/2021/05/Linkedin-logo-Transparent-Image-1024x1024.png" width="50"/></a>
+<a href="www.linkedin.com/in/vaibhav-malik-b82a8a2b" target="_blank"> <img src="https://pnggrid.com/wp-content/uploads/2021/05/Linkedin-logo-Transparent-Image-1024x1024.png" width="50"/></a>
 
 <br/>
 
