@@ -1,8 +1,7 @@
 Howdy visior, welcome to my github profile. I like to learn and work with new technologies so I can build scalable and user friendly applications.
 If you would like to collaborate, we can get in touch via
-
-<a href="mailto: vaibhav-malik@live.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Microsoft_Outlook_2013-2019_logo.svg/640px-Microsoft_Outlook_2013-2019_logo.svg.png" height="20" /></a>
 <a href="https://www.linkedin.com/in/vaibhav-malik-b82a8a2b" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="20"/></a>
+<a href="mailto: vaibhav-malik@live.com" target="_blank" rel="noopener noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Microsoft_Outlook_2013-2019_logo.svg/640px-Microsoft_Outlook_2013-2019_logo.svg.png" height="20" /></a>
 <br/>
 
 <h3>Javascript frameworks Knoweldge<h3/>
